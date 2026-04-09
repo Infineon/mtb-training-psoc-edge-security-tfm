@@ -1,4 +1,4 @@
-# PSOC™ Edge E3 Training - Trusted Firmware-M (TF-M)
+# PSOC™ Edge Training - Trusted Firmware-M (TF-M)
 
 This training is part of the PSOC™ Edge Security training series and focuses on Trusted Firmware-M (TF-M). TF-M provides a Secure Processing Environment (SPE) and serves as the reference implementation of the Platform Security Architecture (PSA). This training outlines the TF-M architecture in PSOC™ Edge, including boot flow, isolation levels, profiles, and services. It also covers default TF-M configurations,application structure with TF-M, and the use of the Edge Protect Configurator for customization.
 
@@ -16,7 +16,7 @@ This training is part of the PSOC™ Edge Security training series and focuses o
 ## Pre-requisites 
 ### Recommended trainings
 - This training doesn't cover basic concepts of ModusToolbox™ and PSOC™ Edge. 
-  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/product-information/psocdeveloper).
+  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/PSOCdeveloper).
   - For PSOC™ Edge trainings, from beginner tutorials to advanced trainings, please visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
 - For an introduction to PSOC™ Edge Security, visit https://github.com/Infineon/mtb-training-psoc-edge-security-intro
 
@@ -56,7 +56,7 @@ This training is part of the PSOC™ Edge Security training series and focuses o
 ## References and resources
 - [PSOC™ Edge MCUs](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
 - [Infineon Edge Protect](https://www.infineon.com/promo/edge-protect)
-- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/product-information/psocdeveloper)
+- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/PSOCdeveloper)
 - [PSOC™ Edge E84 training collection](https://infineon-academy.csod.com/samldefault.aspx?ouid=1&returnURL=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dphnxdriver%2526routename%253dAdmin%252fPlayerPageRedirectHandler%2526Route%253d%25252flms-learner-playlist%25252fPlaylistDetails%2526Parameters%253dplaylistId%25253d8f04565f-88f4-4ca7-83b3-22e501656fbd)
 
 ## History 
