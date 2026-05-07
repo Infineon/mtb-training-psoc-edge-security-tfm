@@ -1,6 +1,6 @@
 # PSOC™ Edge Training - Trusted Firmware-M (TF-M)
 
-This training is part of the PSOC™ Edge Security training series and focuses on Trusted Firmware-M (TF-M). TF-M provides a Secure Processing Environment (SPE) and serves as the reference implementation of the Platform Security Architecture (PSA). This training outlines the TF-M architecture in PSOC™ Edge, including boot flow, isolation levels, profiles, and services. It also covers default TF-M configurations,application structure with TF-M, and the use of the Edge Protect Configurator for customization.
+This training is part of the PSOC™ Edge Security training series and focuses on Trusted Firmware-M (TF-M). TF-M provides a Secure Processing Environment (SPE) and serves as the reference implementation of the Platform Security Architecture (PSA). This training outlines the TF-M architecture in PSOC™ Edge, including boot flow, isolation levels, profiles, and services. It also covers default TF-M configurations, application structure with TF-M, and the use of the Edge Protect Configurator for customization.
 
 ## Device family
 - [PSOC™ Edge](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
@@ -9,6 +9,7 @@ This training is part of the PSOC™ Edge Security training series and focuses o
 1. Download the training [content](#content).
 2. Watch the video or review the presentation at your own pace.
 3. Follow the step-by-step instructions in the training manual during the hands-on sections.
+4. Use the provided source files if needed to verify the solution. 
 
 ## Training level
 - E3: Advanced
@@ -18,7 +19,7 @@ This training is part of the PSOC™ Edge Security training series and focuses o
 - This training doesn't cover basic concepts of ModusToolbox™ and PSOC™ Edge. 
   - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/PSOCdeveloper).
   - For PSOC™ Edge trainings, from beginner tutorials to advanced trainings, please visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
-- For an introduction to PSOC™ Edge Security, visit https://github.com/Infineon/mtb-training-psoc-edge-security-intro
+- For an introduction to PSOC™ Edge Security, visit the [PSOC™ Edge Security Introduction training](https://github.com/Infineon/mtb-training-psoc-edge-security-intro).
 
 ### Tools (see [training manual](#content) for versions and installation instructions)
 - [ModusToolbox™ with Eclipse IDE](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxsetup)
@@ -52,6 +53,7 @@ This training is part of the PSOC™ Edge Security training series and focuses o
 - Training video at Infineon Academy (coming soon)
 - [Presentation](./Presentation/PSE84_Trusted_Firmware_M.pdf)
 - [Training manual](./Manual/PSE84_Trusted_Firmware_M_TrainingManual.pdf)
+- [Solution to labs](./Lab_Source/)
 
 ## References and resources
 - [PSOC™ Edge MCUs](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
@@ -62,4 +64,5 @@ This training is part of the PSOC™ Edge Security training series and focuses o
 ## History 
 | Date       | Version | Description             |
 |------------|---------|-------------------------|
+| 05/07/2026 | *A      | Updated tool versions. <br>Updated screenshots and code snippets. <br>Added lab source.  |
 | 02/16/2026 | **      | First public release    |
