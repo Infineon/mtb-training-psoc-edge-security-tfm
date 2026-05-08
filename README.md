@@ -50,7 +50,7 @@ This training is part of the PSOC™ Edge Security training series and focuses o
 - Understand TF-M services and how to use them
 
 ## Content
-- Training video at Infineon Academy (coming soon)
+- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/839d93c9-adfa-4267-a2bb-2448b52d66e0)
 - [Presentation](./Presentation/PSE84_Trusted_Firmware_M.pdf)
 - [Training manual](./Manual/PSE84_Trusted_Firmware_M_TrainingManual.pdf)
 - [Solution to labs](./Lab_Source/)
